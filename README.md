@@ -1,8 +1,8 @@
-PHYS 256: Computational Physics
+PHYS 441: Introduction to Computational Physics
 ===============================
 
 A set of Jupyter notebooks that constitute an active-learning or self-directed
-curriculum for UVM Physics 256: Computational Physics.
+curriculum for Introduction to Computational Physics.
 
 The main focus of this course will be to provide an introduction to modern
 numerical techniques with the goal of either simulating or solving real
@@ -26,9 +26,6 @@ simulation data)
 molecular dynamics)
 - Linear algebra (quantum mechanics and spin systems)
 
-The creation of these curricular materials was supported in part by the
-National Science Foundation under Award No. DMR-1553991.
-
-![NSF](https://www.nsf.gov/images/logos/nsf1.gif)
+Adapted from A. Del Maestro Computational Physics course for UVM (https://github.com/agdelma/IntroCompPhysics)
 
 
