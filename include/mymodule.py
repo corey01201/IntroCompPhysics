@@ -1,3 +1,4 @@
+import numpy as np
 '''
 A python module to exhibit the use of the __main__ name.
 '''
@@ -9,6 +10,9 @@ def foo():
 # Main Function
 def main():
     # put all your main program driver code here
+    def pi():
+        return np.pi
+    pi()
     print(foo())
     
 # main is called once when the script is executed.    
